@@ -76,18 +76,6 @@ const siteConfig: SiteConfig = {
     {
       text: 'facebook',
       href: 'https://www.facebook.com/Games.beyond.borders.Project.TH/'
-    },
-    {
-      text: 'x',
-      href: 'https://twitter.com/mennwebs'
-    },
-    {
-      text: 'youtube',
-      href: 'https://www.youtube.com/@mennwebs'
-    },
-    {
-      text: 'instagram',
-      href: 'https://instagram.com/mennwebs'
     }
   ],
   hero: {
