@@ -91,8 +91,8 @@ const siteConfig: SiteConfig = {
     }
   ],
   hero: {
-    title: 'Web designer and developer',
-    text: 'living in the mountains of Pai, Thailand.',
+    title: 'ข้อมูล+ความรู้ เกี่ยวกับเกมแปลไทย',
+    text: 'ทั้งเกมแปลโดย Official และ Modder',
     image: {
       src: '/hero.jpeg',
       alt: 'A person sitting at a desk in front of a computer'
