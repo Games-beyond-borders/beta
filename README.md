@@ -1,4 +1,8 @@
-# Dante - Astro & Tailwind CSS Theme by justgoodui.com
+# Menn Webs
+
+for mennwebs.com
+
+Forked from https://astro.build/themes/details/dante/
 
 Dante is a single-author blog and portfolio theme for Astro.js. Featuring a minimal, slick, responsive and content-focused design. For more Astro.js themes please check [justgoodui.com](https://justgoodui.com/).
 
@@ -31,7 +35,7 @@ If you click this☝️ button, it will create a new repo for you that looks exa
 - @astrojs/mdx - https://docs.astro.build/en/guides/markdown-content/
 - @astrojs/rss - https://docs.astro.build/en/guides/rss/
 
-## Project Structure
+## 🚀 Project Structure
 
 Inside of Dante Astro theme, you'll see the following folders and files:
 
@@ -82,10 +86,6 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 
 - Demo content generate with [Chat GPT](https://chat.openai.com/)
 - Images for demo content from [Unsplash](https://unsplash.com/)
-
-## Astro Themes by Just Good UI
-
-- [Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) is a free single author blog theme.
 
 ## License
 

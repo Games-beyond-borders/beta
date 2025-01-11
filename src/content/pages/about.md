@@ -1,43 +1,32 @@
 ---
-title: About
-seo:
-  title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
-  image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+title: About Menn
+cover: ../img/about-menn.jpg
 ---
 
-![Alt text for image](/about.jpeg)
+![Menn at Seed Webs](../img/about-menn.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+<div class="font-serif text-xl sm:text-2xl leading-relaxed sm:leading-relaxed">I'm Chakkrisn <em>Menn</em> Talawat, a web designer and developer who transitioned from Bangkok to Pai, leading the team at <a href="https://seedwebs.com/" target="_blank">Seed Webs.</a></div>
 
-## Ethan Donovan - Web Developer based in Estonia
+## 2003
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+Upon returning from studying Media Production in the US, I launched **TiGER iDEA**, my first web studio in Bangkok, with the support of my former boss.
 
-## Skills and Expertise
+## 2011
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I volunteered to teach design and web development at the **Maehongson IT Valley** project by NECTEC and co-founded **SAM YARN** Digital Agency before relocating to Pai.
 
-## Innovation and Problem-Solving
+## 2016
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+I established **Seed Themes** in Pai, focusing on WordPress theme development and recruiting recent graduates from Mahongson and Chiang Mai.
 
-## Global Perspective, Local Impact
+## 2017
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+I found love in Pai with a local nurse and build our home toghether.
 
-## Continuous Learning
+## 2020
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+I rebranded my company as **Seed Webs**, expanding into various JavaScript technologies like React, MongoDB, Next.js, Directus and Astro, while staying innovative and lean.
 
-## Collaboration and Communication
+## 2024
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
-
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+Craft this website using Astro and share my story with the world.
