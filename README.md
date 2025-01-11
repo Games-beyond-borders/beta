@@ -1,6 +1,6 @@
 # Menn Webs
 
-for mennwebs.com
+for gamesbeyondborders.info
 
 Forked from https://astro.build/themes/details/dante/
 

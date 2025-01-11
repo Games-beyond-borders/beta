@@ -75,7 +75,7 @@ const siteConfig: SiteConfig = {
   socialLinks: [
     {
       text: 'facebook',
-      href: 'https://www.facebook.com/MennWebs/'
+      href: 'https://www.facebook.com/Games.beyond.borders.Project.TH/'
     },
     {
       text: 'x',

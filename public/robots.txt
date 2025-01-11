@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mennwebs.com/sitemap-index.xml
+Sitemap: https://gamesbeyondborders.info/sitemap-index.xml
