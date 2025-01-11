@@ -37,12 +37,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-  title: 'Menn',
-  subtitle: 'Stories and thoughts.',
-  description: 'Menn - Chakkrisn Talawat, Web designer and developer from Pai, Thailand.',
+  title: 'Games beyond borders',
+  subtitle: 'ข้อมูล+ความรู้ เกี่ยวกับเกมแปลไทย',
+  description: 'Games beyond borders - ข้อมูล+ความรู้ เกี่ยวกับเกมแปลไทย ทั้งเกมแปลโดย Official และ Modder',
   image: {
-    src: '/img/menn.jpg',
-    alt: 'Menn Webs - Chakkrisn Talawat, Web designer and developer from Pai, Thailand.'
+    src: '/img/gamesbeyondborders.jpg',
+    alt: 'Games beyond borders - ข้อมูล+ความรู้ เกี่ยวกับเกมแปลไทย ทั้งเกมแปลโดย Official และ Modder'
   },
   headerNavLinks: [
     {
