@@ -1,5 +1,5 @@
 ---
-title: About Menn
+title: About Games beyond borders
 cover: ../img/about-menn.jpg
 ---
 

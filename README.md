@@ -1,4 +1,4 @@
-# Menn Webs
+# Games beyond borders Webs
 
 for gamesbeyondborders.info
 
