@@ -1,32 +1,16 @@
 ---
-title: About Games beyond borders
-cover: ../img/about-menn.jpg
+title: เกี่ยวกับ Games beyond borders
+cover: ../img/about-gamesbeyondborders.jpg
 ---
 
-![Menn at Seed Webs](../img/about-menn.jpg)
+![Games beyond borders](../img/about-gamesbeyondborders.jpg)
 
-<div class="font-serif text-xl sm:text-2xl leading-relaxed sm:leading-relaxed">I'm Chakkrisn <em>Menn</em> Talawat, a web designer and developer who transitioned from Bangkok to Pai, leading the team at <a href="https://seedwebs.com/" target="_blank">Seed Webs.</a></div>
+<div class="font-serif text-xl sm:text-2xl leading-relaxed sm:leading-relaxed"><em>“เกมข้ามพรมแดน”</em> เป็นเพจนำเสนอความรู้ด้านการแปลเกม หรือ Game localization/translation จากมุมมองด้านการแปลศึกษา (Translation studies) แบบย่อยง่าย ให้แก่ผู้ที่สนใจ ไม่ว่าจะเป็นนักเรียน นิสิต นักศึกษา หรือบุคคลทั่วไปที่สนใจประเด็นการแปลเกม และเกมที่ได้รับการแปลในประเทศไทย ทั้งเกมที่ได้รับการแปลอย่างเป็นทางการจากผู้พัฒนา/ผู้จัดจำหน่าย และเกมที่ได้รับการแปลจากกลุ่มนักม็อด (Modder)</div>
 
-## 2003
+เนื้อหาที่จะปรากฏในเพจ ได้มาจากการวิจัยโดยการสืบค้นข้อมูล และสัมภาษณ์กลุ่มนักแปลเกม ทั้งนักแปลแบบทางการ (Official translator/language localizer) และนักม็อดและนักแปลแบบไม่เป็นทางการ (Modder/unofficial translator/language localizer)
 
-Upon returning from studying Media Production in the US, I launched **TiGER iDEA**, my first web studio in Bangkok, with the support of my former boss.
+หากอยากให้นำเสนอข้อมูลเกี่ยวกับการแปลเกมเรื่องอะไร สามารถแนะนำได้เลยค่ะ ฝากกดติดตามไว้ด้วยนะคะ ^^
 
-## 2011
+*หมายเหตุ* เพจเกมข้ามพรมแดนเป็นหนึ่งในผลผลิตจากโครงการวิจัย “เกมข้ามพรมแดน: การแปล เครือข่ายและอุตสาหกรรมเกมในประเทศไทย” ได้รับทุนอุดหนุนการวิจัยจากสำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม (ทุนพัฒนาศักยภาพในการทำงานวิจัยของอาจารย์รุ่นใหม่ ปีงบประมาณ 2564)
 
-I volunteered to teach design and web development at the **Maehongson IT Valley** project by NECTEC and co-founded **SAM YARN** Digital Agency before relocating to Pai.
-
-## 2016
-
-I established **Seed Themes** in Pai, focusing on WordPress theme development and recruiting recent graduates from Mahongson and Chiang Mai.
-
-## 2017
-
-I found love in Pai with a local nurse and build our home toghether.
-
-## 2020
-
-I rebranded my company as **Seed Webs**, expanding into various JavaScript technologies like React, MongoDB, Next.js, Directus and Astro, while staying innovative and lean.
-
-## 2024
-
-Craft this website using Astro and share my story with the world.
+เนื้อหาบางส่วน เป็นความร่วมมือระหว่างโครงการฯ และแอดมินเพจ <a href="https://www.facebook.com/BlackChickModThai/" target="_blank">BlackChick ModThai</a>
