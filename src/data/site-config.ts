@@ -54,6 +54,10 @@ const siteConfig: SiteConfig = {
       href: '/tags'
     },
     {
+      text: 'Mods',
+      href: '/mods'
+    },
+    {
       text: 'About',
       href: '/about'
     }
